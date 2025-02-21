@@ -16,3 +16,6 @@ to use Spotify's web API.
 
 ## Inserting to MongoDB
 The `InsertApp.py` takes in a text input file and inserts it to the database.
+
+# Running Tests
+Run `pytest` in project root directory
