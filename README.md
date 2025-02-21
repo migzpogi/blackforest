@@ -19,3 +19,8 @@ The `InsertApp.py` takes in a text input file and inserts it to the database.
 
 # Running Tests
 Run `pytest` in project root directory
+
+# Available Information
+* Get top songs per year
+* Get songs based on rank
+* Get songs that repeat per year
